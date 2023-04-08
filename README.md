@@ -12,10 +12,11 @@ An assembly program where you can play online chess game with inline chatting or
 * The plack player moves with the black frame and if he choose a piece, the available places for this piece will be highlighted with red frame.
 * The white player moves with the green frame and if he choose a piece, the available places for this piece will be highlighted with blue frame.<br /><br />
 You can read the description file for more details 
-<!-- <p align="center">
-    <img width=800px height=410px src="https://github.com/aashrafh/CMP201A/blob/master/Execution%20Unit/test/TestCaseAfterOrg1.PNG" alt="ExecutionUnitDeom">
-  <img width=800px height=410px src="https://github.com/aashrafh/CMP201A/blob/master/Execution%20Unit/test/Test2.PNG" alt="ExecutionUnitDeom">
- </p> -->
+<p align="center">
+    <img width=800px height=410px src="https://github.com/Osama1111111/Online-Chess-Game-and-Chat/blob/master/images/SS/main%20screen%20.png">
+    <img width=800px height=410px src="https://github.com/Osama1111111/Online-Chess-Game-and-Chat/blob/master/images/SS/game.png">
+    <img width=800px height=410px src="https://github.com/Osama1111111/Online-Chess-Game-and-Chat/blob/master/images/SS/board.png">
+ </p> 
 
 ## 🏁 Install <a name = "Install"></a>
 1. Install [DOSBox](https://www.dosbox.com/).
