@@ -4,7 +4,7 @@
 An assembly program where you can play online chess game with inline chatting or to go to chat room directly.
 *	Press f1 to go to the chatting room.
 * Press f2 to go to the chess game:<br />
-This game has some different rules than the traditional chess. Every player could move any piece without turns, but the moved piece have to be frozen for 3 seconds to be able to move again.
+This game has some different rules than the traditional chess. Every player could move any piece without turns, but the moved piece have to be frozen for 3 seconds to be able to move again.<br /><br />
 You can read the description for more details 
 <!-- <p align="center">
     <img width=800px height=410px src="https://github.com/aashrafh/CMP201A/blob/master/Execution%20Unit/test/TestCaseAfterOrg1.PNG" alt="ExecutionUnitDeom">
