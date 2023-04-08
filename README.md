@@ -6,9 +6,9 @@ An assembly program where you can play online chess game with inline chatting or
 
 2. Press f2 to go to the chess game:<br />
 * This game has some different rules than the traditional chess. Every player could move any piece without turns, but the moved piece have to be frozen for 3 seconds to be able to move again.<br />
-* Every player moves with keyboard arrows and choose the piece with backslash key (\).
+* Every player moves with keyboard arrows and chooses the piece with backslash key.
 * If any keyboard letter pressed, it will be tybed in the chat.
-* The game print the number of dead pieces for every player.
+* The number of dead pieces for every player will be printed in the status bar.
 * The plack player moves with the black frame and if he choose a piece, the available places for this piece will be highlighted with red frame.
 * The white player moves with the green frame and if he choose a piece, the available places for this piece will be highlighted with blue frame.<br /><br />
 You can read the description file for more details 
