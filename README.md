@@ -1,9 +1,9 @@
 # Online-Chess-Game-and-Chat
 
-## Execution Unit <a name = "unit"></a>
+## Chess game <a name = "unit"></a>
 An assembly program where you can play online chess game with inline chatting or to go to chat room directly.
 *	Press f1 to go to the chatting room.
-* Press f2 to go to the chess game:\newline
+* Press f2 to go to the chess game:<br />
 This game has some different rules than the traditional chess. Every player could move any piece without turns, but the moved piece have to be frozen for 3 seconds to be able to move again.
 You can read the description for more details 
 <!-- <p align="center">
