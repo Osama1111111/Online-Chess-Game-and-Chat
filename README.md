@@ -1,6 +1,6 @@
 # Online-Chess-Game-and-Chat
 
-## Chess game <a name = "unit"></a>
+## ♟ Chess game <a name = "unit"></a>
 An assembly program where you can play online chess game with inline chatting or to go to chat room directly.
 *	Press f1 to go to the chatting room.
 * Press f2 to go to the chess game:<br />
