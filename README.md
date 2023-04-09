@@ -37,4 +37,4 @@ fileName
 
 ## ▶ Run the program <a name = "unit"></a>
 * You have to connect the two devices serially or via Wi-Fi.<br />
-* Run the black.asm file in an device and the white.asm in the other device.
+* Run the black.asm file in a device and the white.asm in the other device.
